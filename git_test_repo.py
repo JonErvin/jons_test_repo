@@ -12,3 +12,5 @@ print('Original file')
 print('Local change')
 
 print('one more local add')
+
+print('testing pull requirement')
